@@ -16,6 +16,7 @@ $$
 \log(\text{GDP per capita}) = 0.9644 + 0.0023 \cdot \text{inflation} - 0.0039 \cdot \text{gfcf} + 0.0036 \cdot \text{gov\_exp} + 0.1198 \cdot \text{life\_expectancy}
 $$
 
+
 Where:
 
 * **inflation** is the rate of inflation.
