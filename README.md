@@ -12,8 +12,9 @@ Hey there in this project, I am implementing what I learnt in econometrics, OLS(
 # Regression Function
 The regression function for the log-transformed GDP per capita (log_gdp_per_capita) is:
 
-log(GDP per capita) = 0.9644 + 0.0023 ⋅ inflation − 0.0039 ⋅ gfcf + 0.0036 ⋅ gov_exp + 0.1198 ⋅ life_expectancy
-log(GDP per capita)=0.9644+0.0023⋅inflation−0.0039⋅gfcf+0.0036⋅gov_exp+0.1198⋅life_expectancy
+$$
+\log(\text{GDP per capita}) = 0.9644 + 0.0023 \cdot \text{inflation} - 0.0039 \cdot \text{gfcf} + 0.0036 \cdot \text{gov\_exp} + 0.1198 \cdot \text{life\_expectancy}
+$$
 
 Where:
 
