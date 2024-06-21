@@ -4,10 +4,12 @@
 
 
 <p align="left">
-Hey there in this <a href="https://salary-predictor-webapp-fatihkarahan.streamlit.app/" >webapp</a>, I have used the stackoverflow software engineering survey results which you can find here => https://survey.stackoverflow.co/ to build a salary predictor app where you specify the country, years of experience etc. and get the estimated salary by using DecisionTreeRegressor. Check out the app and give me your thoughts about it.
+Hey there in this project, I am implementing what I learnt in econometrics, OLS(Ordinary Least Squares). In order for OLS to work, we need 4 assumptions and we are checking those as well in this project. 
 </p>
 
-Regression Function
+![Alt text](summary.png)
+
+# Regression Function
 The regression function for the log-transformed GDP per capita (log_gdp_per_capita) is:
 
 log(GDP per capita) = 0.9644 + 0.0023 ⋅ inflation − 0.0039 ⋅ gfcf + 0.0036 ⋅ gov_exp + 0.1198 ⋅ life_expectancy
